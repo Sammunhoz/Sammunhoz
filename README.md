@@ -1,6 +1,6 @@
 # Olá, seja bem vindo(a) 👋</h1>
 
-### 👤 Sobre mim
+## 👤 Sobre mim
 <p align="justify">
    &nbsp;&nbsp;&nbsp; &nbsp; Sou Samuel Munhoz, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia do Estado de São Paulo (FATEC). Gosto de analisar cada desafio a fundo, levando o tempo necessário para
 que ele possa ser resolvido da melhor forma.
